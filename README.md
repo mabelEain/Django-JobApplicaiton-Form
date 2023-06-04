@@ -1,4 +1,4 @@
-# Django-JobApplicaiton-Form
+# Django-JobApplication-Form
 
 #### About
 
